@@ -1,0 +1,17 @@
+{
+    "name": "tho/post",
+    "description": "Package Post",
+    "type": "libarary",
+    "license": "MIT",
+    "authors": {
+        "name": "Tho Vu",
+        "email": "vutho081120@gmail.com"
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mallcode\\Post\\": "src/"
+        }
+    }
+}
