@@ -1,0 +1,3 @@
+body>div.page>div>div.page-header>div>div>div.col>h2 {
+    text-transform: capitalize;
+}

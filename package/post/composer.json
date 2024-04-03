@@ -3,10 +3,13 @@
     "description": "Package Post",
     "type": "libarary",
     "license": "MIT",
-    "authors": {
-        "name": "Tho Vu",
-        "email": "vutho081120@gmail.com"
-    },
+    "authors": [
+        {
+            "name": "Tho Vu",
+            "email": "vutho081120@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
